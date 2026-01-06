@@ -1,0 +1,1 @@
+print("My first python script running inside Vagrant VM")
